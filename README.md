@@ -72,6 +72,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 Developed by: Shakthi Kumar S
+
 Register no: 212222110043
 ```c
 #include "main.h"
@@ -172,10 +173,12 @@ void SystemClock_Config(void)
 
 ```
 ## Output screen shots of proteus  :
-![](PMC03-1.png) ![](PMC03-2.png)
+![PMC03-1](https://github.com/Shakthikumar22009242/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120207509/65800fd1-dc06-4ada-a298-a8c41da20b0c)
+
+![PMC03-2](https://github.com/Shakthikumar22009242/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120207509/2c10c125-c596-4e65-89a4-abcf78e0f347)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- ![](PMC_EX03.PDF)
+ 
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
