@@ -178,7 +178,8 @@ void SystemClock_Config(void)
 ![PMC03-2](https://github.com/Shakthikumar22009242/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120207509/2c10c125-c596-4e65-89a4-abcf78e0f347)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
+ ![image](https://github.com/Shakthikumar22009242/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120207509/2e630552-d83b-4d4b-8c9e-1213cc55bc91)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
